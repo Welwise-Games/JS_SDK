@@ -1,2 +1,2 @@
 # JS_SDK
-https://docs.google.com/document/d/1bb9S-5l7Rxfmtsd-EpmHpYNV8y4-QYQylk1zzOCYyhA/edit?usp=sharing
+https://welwisegames.atlassian.net/wiki/spaces/WG/pages/35782659/JS+SDK
